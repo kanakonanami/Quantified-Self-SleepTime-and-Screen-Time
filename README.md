@@ -2,5 +2,5 @@
 
 The "combined_dataset.csv" could neither be previewed nor opened.
 
-  In R, please use ReadRDS() function to retrieved the file.
+  In R, please use readRDS() function to retrieved the file.
 
